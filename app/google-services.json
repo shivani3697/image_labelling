@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037336221187",
+    "firebase_url": "https://mlkit-image-labeling.firebaseio.com",
+    "project_id": "mlkit-image-labeling",
+    "storage_bucket": "mlkit-image-labeling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037336221187:android:12bd57d51bf27cda",
+        "android_client_info": {
+          "package_name": "com.example.admin.mydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037336221187-bmj7mct5357aaibj6sk21frkfs8004f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmPwH9e5Bb0hcUvnyin9jORFSV2UT0Sg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
